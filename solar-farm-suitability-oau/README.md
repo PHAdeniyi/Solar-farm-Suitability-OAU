@@ -1,7 +1,8 @@
 # Solar Farm Suitability Analysis  
 **Obafemi Awolowo University, Ile-Ife, Nigeria**  
 
-![Final Solar Farm Suitability Map](Land suitability Index Map.jpg)
+![Final Solar Farm Suitability Map](land suitability index map.jpg)
+![Solar Irradiation](solar_irradiation_map.jpg)
 
 ## Project Overview
 Developed a full GIS-based Multi-Criteria Decision Analysis (MCDA) to identify the most suitable locations for utility-scale solar farms within and around Obafemi Awolowo University using **ArcGIS Pro** and the **Analytic Hierarchy Process (AHP)**.
@@ -42,4 +43,5 @@ GIS & Geospatial Analyst
 LinkedIn • Email • Portfolio
 
 ---
+
 Open to roles in renewable energy site selection, GIS consulting, and spatial analytics across Africa.
